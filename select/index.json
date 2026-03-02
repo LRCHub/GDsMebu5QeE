@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "幸せをつかみたい　（ALBUM VERSION）",
+  "base_artist": "広瀬香美",
+  "createdAt": "2026-03-02T12:01:26.416830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せをつかみたい (ALBUM VERSION)",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/01_幸せをつかみたい_(ALBUM_VERSION)_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸せをつかみたい",
+      "artist": "広瀬香美",
+      "has_synced": true,
+      "path": "select/02_幸せをつかみたい_広瀬香美.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幸せをつかみたい",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/03_幸せをつかみたい_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幸せをつかみたい",
+      "artist": "広瀬香美",
+      "has_synced": true,
+      "path": "select/04_幸せをつかみたい_広瀬香美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幸せをつかみたい",
+      "artist": "広瀬 香美",
+      "has_synced": true,
+      "path": "select/05_幸せをつかみたい_広瀬_香美.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幸せをつかみたい - 07' Remastering",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/06_幸せをつかみたい_-_07'_Remastering_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "幸せをつかみたい (2022 Remastering)",
+      "artist": "広瀬香美",
+      "has_synced": true,
+      "path": "select/07_幸せをつかみたい_(2022_Remastering)_広瀬香美.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "幸せをつかみたい (2022 Remastering)",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/08_幸せをつかみたい_(2022_Remastering)_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せをつかみたい",
+      "artist": "広瀬 香美",
+      "has_synced": false,
+      "path": "select/pl_01_幸せをつかみたい_広瀬_香美.txt"
+    }
+  ]
+}
